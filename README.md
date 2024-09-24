@@ -1,2 +1,3 @@
 # MongodbV2
-In this the structured way and more enhaced methods such as ways to hash password using bcrypt , various ZOD functionalities are explored !
+In this repository various methods to hash the password using salt are explored for e.g - bcrypt .
+ZOD to create more secured parsing of the json objects is explored here .
