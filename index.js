@@ -7,7 +7,7 @@ const { z } = require("zod");
 
 const { UserModel , TodoModel } = require("./db");
 const { default: mongoose } = require("mongoose");
-mongoose.connect("mongodb+srv://SaloniAtole:Qs72aKQ7eaZHkiuF@cluster0.po79z.mongodb.net/todos-app-week-7");
+mongoose.connect(" ");
 
 app.use(express.json()); //since we're parsing the json body possible only using the express.json()
 
